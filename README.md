@@ -14,11 +14,9 @@
 
 1. Clone โปรเจกต์จาก Git repository
 
-   ````bash
-   git clone https://github.com/username/menu-api.git
-   cd menu-api```
-
-   ````
+   `bash
+git clone https://github.com/teeratchapat/ecommerce-api
+cd menu-api`
 
 2. ติดตั้ง dependencies ใช้คำสั่งต่อไปนี้เพื่อติดตั้ง dependencies
 
